@@ -4,6 +4,6 @@
  
  please check my webpage here :
 
-Here I attched the screenshots of the webpage
+Here I attched the mock up of the webpage
 
 ![FAQ](https://user-images.githubusercontent.com/76697341/126239733-aec477e0-aa8d-46d5-8500-1e8284cc9ce4.png)
